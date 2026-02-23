@@ -1,3 +1,7 @@
+## 📸 Preview
+
+![App Screenshot](screenshot.png)
+
 # 📝 Spring Boot Todo Application
 
 A simple and clean Todo web application built using Spring Boot and Thymeleaf.
